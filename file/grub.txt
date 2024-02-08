@@ -1,0 +1,2 @@
+menu_color_highlight=black/yellow
+
