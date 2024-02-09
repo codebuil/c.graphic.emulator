@@ -1,2 +1,2 @@
-# Grub.menu.graphic
-Draw graphics menus  grub 
+# c.graphic.emulator
+emulates graphic console on linux .iso
